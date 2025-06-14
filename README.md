@@ -52,4 +52,4 @@ Design SaaS Tool Landing Page is a modern landing page for a design-focused SaaS
 - Enjoy smooth animations throughout the page.
 
 ## ℹ️ Additional
-- This project is a starter template for the design saas landing page project created by Frontend Tribe.
+- This project is a starter template for the design SaaS landing page project created by Frontend Tribe.
